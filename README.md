@@ -1,4 +1,4 @@
-[![MasterHead](https://www.onurbabur.com/wp-content/uploads/2021/12/java_logo_icon_168609.png)
+![MasterHead](https://www.onurbabur.com/wp-content/uploads/2021/12/java_logo_icon_168609.png)
 
 
 
